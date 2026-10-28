@@ -1,0 +1,19 @@
+{
+  "mods": [
+    {
+      "author": "Juan Hellsing",
+      "description": "Changes the Prince's appearance to the one he has at the beginning of T2T.",
+      "file": "T2T_Prince_on_WW.jtmod",
+      "game": "WW",
+      "id": "t2t-prince-on-ww",
+      "image": "images/t2t-prince-on-ww.png",
+      "name": "T2T Prince on WW",
+      "sha256": "cb47d6b3f50d19859210bac54e3d475bd2b02b81fac115e6c468fe8a793fc8f3",
+      "size": 13335597,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
+    }
+  ],
+  "schema_version": 1
+}
