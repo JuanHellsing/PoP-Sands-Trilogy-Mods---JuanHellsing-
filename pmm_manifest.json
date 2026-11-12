@@ -22,8 +22,8 @@
       "id": "kindred-prince",
       "image": "images/kindred-prince.png",
       "name": "Kindred Prince",
-      "sha256": "bf04cd440859cc8d9569d4f123ed66f70e503834ac8f4fe9bb96bea58465590f",
-      "size": 13113192,
+      "sha256": "eb798c0c4130a1686f969a9d734251e73fcb6bd4bb137d6b41cf3033e0f3e295",
+      "size": 13519416,
       "targets": "openjade",
       "type": "mod",
       "version": "1.1"
