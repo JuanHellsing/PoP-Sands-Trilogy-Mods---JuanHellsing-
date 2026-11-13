@@ -44,14 +44,14 @@
     },
     {
       "author": "Juan Hellsing",
-      "description": "Gives the Prince his WW vanilla face instead of the base KB model one.",
+      "description": "Changes the KB Prince's face for the vanilla one. Needs to be below the Main Mod.",
       "file": "KindredPrinceWWFaceGloves.jtmod",
       "game": "WW",
       "id": "kindred-prince-ww-face-gloves-addon",
       "image": "images/kindred-prince-ww-face-gloves-addon.png",
-      "name": "Kindred Prince / WW Face + Gloves Addon",
-      "sha256": "3cc86891110ec133f89ee23916969dcccc5eeb3a83b07c1149dda72e0db6ae79",
-      "size": 4871422,
+      "name": "Kindred Prince / WW Face + Gloves",
+      "sha256": "08a466f9ea6ace21d0a6ac5215c97d0068a139a9eb2f30b9f4beab48f7a82b07",
+      "size": 4886931,
       "targets": "openjade",
       "type": "fix",
       "version": "1.0"
